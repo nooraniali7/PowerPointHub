@@ -40,7 +40,7 @@ body {
   font-family:cursive;
 }
 
-.ol {
+.ol{
   color: gold;
   text-align: center;
   font-family: "Times";
@@ -50,6 +50,13 @@ body {
 .compsci {
   text-align: center;
 }
+
+.bodyText{
+  color: gold;
+  text-align: center;
+  font-family: "Times";
+}
+
 
 a:link{
   text-decoration: none;
