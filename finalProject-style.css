@@ -8,6 +8,10 @@
   float: center;
 }
 
+.background{
+    background-image: url("images/orange.jpg");
+    height: 2000;
+}
 img {
   display: block;
   margin: auto;
