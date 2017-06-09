@@ -8,10 +8,12 @@
   float: center;
 }
 
+/* 
 .background{
     background-image: url("images/orange.jpg");
     height: 2000;
 }
+ */
 img {
   display: block;
   margin: auto;
@@ -29,6 +31,7 @@ body {
   margin-right: auto;
   margin-left: auto;
   color: white;
+  background-image: url("images/orange.jpg");
 }
 
 .myself {
