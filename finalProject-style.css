@@ -1,0 +1,62 @@
+#myWebsite {
+  text-align: center;
+  background-color: orange;
+  font-weight: bold;
+  color: white;
+  font-family: cursive;
+  border: 8px white dashed;
+  float: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+
+#myPic {
+  display: block;
+  clear: left;
+  margin: auto;
+  border: 10px white dashed;
+}
+body {
+  background-color: #FF4500	;
+  margin-right: auto;
+  margin-left: auto;
+  color: white;
+}
+
+.myself {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+
+}
+
+.alignment{
+  text-align: center;
+  color: #7B68EE	;
+  font-family:cursive;
+}
+
+.ol {
+  color: gold;
+  text-align: center;
+  font-family: "Times";
+
+}
+
+.compsci {
+  text-align: center;
+}
+
+a:link{
+  text-decoration: none;
+
+}
+
+a:hover{
+  color: black;
+
+}
