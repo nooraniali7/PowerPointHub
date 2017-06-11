@@ -8,12 +8,14 @@
   float: center;
 }
 
+/* 
 .background{
     background-image: url("images/orange.jpg");
     height: auto;
     width: auto;
 
 }
+ */
 img {
   display: block;
   margin: auto;
@@ -36,6 +38,7 @@ body {
   margin-right: auto;
   margin-left: auto;
   color: white;
+  background-image: url("images/orange.jpg");
 }
 
 .myself {
