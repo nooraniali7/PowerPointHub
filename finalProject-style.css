@@ -10,7 +10,9 @@
 
 .background{
     background-image: url("images/orange.jpg");
-    height: 2000;
+    height: auto;
+    width: auto;
+
 }
 img {
   display: block;
@@ -23,6 +25,11 @@ img {
   clear: left;
   margin: auto;
   border: 10px white dashed;
+}
+
+.classList {
+  color: gold;
+  font-family: cursive;
 }
 body {
   background-color: #FF4500	;
