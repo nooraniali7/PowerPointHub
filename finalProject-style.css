@@ -8,12 +8,6 @@
   float: center;
 }
 
-/* 
-.background{
-    background-image: url("images/orange.jpg");
-    height: 2000;
-}
- */
 img {
   display: block;
   margin: auto;
@@ -26,6 +20,7 @@ img {
   margin: auto;
   border: 10px white dashed;
 }
+
 body {
   background-color: #FF4500	;
   margin-right: auto;
@@ -38,7 +33,6 @@ body {
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
-
 }
 
 .alignment{
@@ -67,10 +61,8 @@ body {
 
 a:link{
   text-decoration: none;
-
 }
 
 a:hover{
   color: black;
-
 }
