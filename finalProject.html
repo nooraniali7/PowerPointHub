@@ -75,27 +75,5 @@
 				</a>
 			</div>
 		</ul>
-
-		<?php
-				$phone="";
-				$comment="";
-				$commentError="";
-
-				function testInput($value){
-						$value = trim($value);
-						$value = stripslashes($value);
-						$value = htmlspecialchars($value);
-						return $value;
-				}
-		?>
-
-		<h2>We would love to hear what you think!</h2>
-		<form method="post">
-			Comments or Feedback...? <br><textarea name="comments" rows="10" cols="30"><?php echo $comment;?></textarea><br>
-				<span class="error"><?php echo $commentError;?></span>
-				<br>
-				<br>
-				<input type="submit" value = "Finish!">
-		</form>
 </body>
 </html>
