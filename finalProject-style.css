@@ -8,6 +8,7 @@
   float: center;
 }
 
+<<<<<<< HEAD
 /* 
 .background{
     background-image: url("images/orange.jpg");
@@ -16,6 +17,8 @@
 
 }
  */
+=======
+>>>>>>> 661851a388a4c9f7f991ce88d4066c86ab24b3cd
 img {
   display: block;
   margin: auto;
@@ -29,10 +32,13 @@ img {
   border: 10px white dashed;
 }
 
+<<<<<<< HEAD
 .classList {
   color: gold;
   font-family: cursive;
 }
+=======
+>>>>>>> 661851a388a4c9f7f991ce88d4066c86ab24b3cd
 body {
   background-color: #FF4500	;
   margin-right: auto;
@@ -45,7 +51,6 @@ body {
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
-
 }
 
 .alignment{
@@ -74,10 +79,8 @@ body {
 
 a:link{
   text-decoration: none;
-
 }
 
 a:hover{
   color: black;
-
 }
